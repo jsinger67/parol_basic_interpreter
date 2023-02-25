@@ -1,3 +1,9 @@
+# ATTENTION - This project was moved to [parol](https://github.com/jsinger67/parol)
+
+You can find it in `parol`'s workspace [here](https://github.com/jsinger67/parol/tree/main/examples/basic_interpreter).
+
+There is no further development in this repository here.
+
 # Example application "BASIC Interpreter"
 
 This is an example project of the [`parol`](https://github.com/jsinger67/parol) parser generator. It
